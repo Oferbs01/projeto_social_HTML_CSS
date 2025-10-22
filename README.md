@@ -1,7 +1,7 @@
 🌐projeto_social_HTML_CSS
 
-## Integração entre HTML e CSS 
-## Este projeto demonstra a integração entre HTML e CSS, aplicada na criação de uma página para o Projeto Social Uzumaki, uma iniciativa voltada à inclusão educacional e transformação social.
+🧠Integração entre HTML e CSS 
+Este projeto demonstra a integração entre HTML e CSS, aplicada na criação de uma página para o Projeto Social Uzumaki, uma iniciativa voltada à inclusão educacional e transformação social.
 
 ----
 
